@@ -54,7 +54,7 @@ Follow the steps in the Terminal window:
 7. THE SHUFFLER button will appear in your floating keyboard
 
 ### 4. Use it
-Click the button in your Accessibility Keyboard whenever you feel like it. Each click plays a sound and shuffles to a new random wallpaper. Rapid fire is encouraged.
+Click the button in your Accessibility Keyboard whenever you feel like it. Each click plays a sound and shuffles to a new random wallpaper.
 
 ---
 
